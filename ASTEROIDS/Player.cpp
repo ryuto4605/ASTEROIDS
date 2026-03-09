@@ -163,7 +163,7 @@ void Player::Draw()
 
 	);
 
-
+	
 
 	//ãƒEƒãƒE‚°ç”¨
 	/*Vector2D cp = Math2D::World2Screen(pos_);
